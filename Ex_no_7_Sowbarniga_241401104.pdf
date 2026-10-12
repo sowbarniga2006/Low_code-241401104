@@ -1,0 +1,2062 @@
+%PDF-1.4
+%‚„œ”
+4 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+5 0 obj
+<<
+/BaseFont /Times-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Times-Italic
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F5
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F6
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/Length 7315
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 54 729.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 31 Tm /F2 23 Tf 27 TL (Integrating a Zoho Creator application with) Tj T* (another Zoho service using connections and APIs) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 710.8898 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 3 Tm /F3 12 Tf 15 TL (Insurance Claim Request Form \(Basic Fields Use Case\) \227 Zoho Calendar Integration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 688.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F4 11 Tf 14 TL (Sowbarniga A) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 674.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F4 11 Tf 14 TL (241401104) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 644.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL (1. Aim) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 597.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 32.1 Tm /F4 10.5 Tf 14.2 TL 1.499399 Tw (To integrate a Zoho Creator insurance claim request form with Zoho Calendar using microservice connections,) Tj T* 0 Tw 1.143899 Tw (conditional workflows, and Deluge scripting, so that a claim verification callback is scheduled automatically for) Tj T* 0 Tw (every submitted claim.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 567.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL (2. Procedure) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 545.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Phase A: Navigating to the Connection Panel) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 512.8898 cm
+q
+BT 1 0 0 1 18 17.9 Tm .535447 Tw 14.2 TL /F4 10.5 Tf 0 0 0 rg (1. Log in to your Zoho Creator developer account and open the active Insurance Claim Request & Processing) Tj T* 0 Tw (Management application.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 481.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 18 17.9 Tm /F4 10.5 Tf 14.2 TL 1.737037 Tw (2. In the left navigation panel under the Develop section, click on Microservices to access the centralized) Tj T* 0 Tw (integration environment.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 450.0898 cm
+q
+BT 1 0 0 1 18 17.9 Tm 1.928439 Tw 14.2 TL /F4 10.5 Tf 0 0 0 rg (3. Review the available options and choose Connections \(Pick & Create\) to configure the Zoho Calendar) Tj T* 0 Tw (service bridge.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 443.0898 cm
+Q
+q
+1 0 0 1 54 275.3898 cm
+q
+.78 0 0 .78 0 0 cm
+.8 w
+.811765 .831373 .870588 RG
+.984314 .988235 .996078 rg
+n
+5 0 m
+375 0 l
+377.764 0 380 2.236 380 5 c
+380 210 l
+380 212.764 377.764 215 375 215 c
+5 215 l
+2.236 215 0 212.764 0 210 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+B*
+BT /F5 8.5 Tf 10.2 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 139.6885 197 Tm (Create New Microservice) Tj T* ET
+.6 w
+.827451 .843137 .878431 RG
+1 1 1 rg
+n
+20 147 m
+360 147 l
+362.2112 147 364 148.7888 364 151 c
+364 179 l
+364 181.2112 362.2112 183 360 183 c
+20 183 l
+17.7888 183 16 181.2112 16 179 c
+16 151 l
+16 148.7888 17.7888 147 20 147 c
+h
+B*
+.909804 .921569 .952941 rg
+n
+41 165 m
+41 168.866 37.86599 172 34 172 c
+30.13401 172 27 168.866 27 165 c
+27 161.134 30.13401 158 34 158 c
+37.86599 158 41 161.134 41 165 c
+f*
+BT /F5 7.8 Tf 9.36 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 50 168 Tm (AI Models) Tj T* ET
+BT /F1 6.2 Tf 7.44 TL ET
+.419608 .447059 .501961 rg
+BT 1 0 0 1 50 157 Tm (Add AI models to power your application) Tj T* ET
+.6 w
+.768627 .788235 .831373 RG
+1 1 1 rg
+n
+285 156 m
+347 156 l
+348.6584 156 350 157.3416 350 159 c
+350 170 l
+350 171.6584 348.6584 173 347 173 c
+285 173 l
+283.3416 173 282 171.6584 282 170 c
+282 159 l
+282 157.3416 283.3416 156 285 156 c
+h
+B*
+BT /F1 6.5 Tf 7.8 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 306.2468 162.2 Tm (Create) Tj T* ET
+1 w
+.184314 .435294 .929412 RG
+.94902 .968627 1 rg
+n
+20 103 m
+360 103 l
+362.2112 103 364 104.7888 364 107 c
+364 135 l
+364 137.2112 362.2112 139 360 139 c
+20 139 l
+17.7888 139 16 137.2112 16 135 c
+16 107 l
+16 104.7888 17.7888 103 20 103 c
+h
+B*
+.909804 .921569 .952941 rg
+n
+41 121 m
+41 124.866 37.86599 128 34 128 c
+30.13401 128 27 124.866 27 121 c
+27 117.134 30.13401 114 34 114 c
+37.86599 114 41 117.134 41 121 c
+f*
+BT /F5 7.8 Tf 9.36 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 50 124 Tm (Connections) Tj T* ET
+BT /F1 6.2 Tf 7.44 TL ET
+.419608 .447059 .501961 rg
+BT 1 0 0 1 50 113 Tm (Connect apps with third-party services) Tj T* ET
+.6 w
+.184314 .435294 .929412 RG
+.184314 .435294 .929412 rg
+n
+285 112 m
+347 112 l
+348.6584 112 350 113.3416 350 115 c
+350 126 l
+350 127.6584 348.6584 129 347 129 c
+285 129 l
+283.3416 129 282 127.6584 282 126 c
+282 115 l
+282 113.3416 283.3416 112 285 112 c
+h
+B*
+BT /F5 6.5 Tf 7.8 TL ET
+1 1 1 rg
+BT 1 0 0 1 295.0473 118.2 Tm (Pick & Create) Tj T* ET
+.6 w
+.827451 .843137 .878431 RG
+1 1 1 rg
+n
+20 59 m
+360 59 l
+362.2112 59 364 60.7888 364 63 c
+364 91 l
+364 93.2112 362.2112 95 360 95 c
+20 95 l
+17.7888 95 16 93.2112 16 91 c
+16 63 l
+16 60.7888 17.7888 59 20 59 c
+h
+B*
+.909804 .921569 .952941 rg
+n
+41 77 m
+41 80.86599 37.86599 84 34 84 c
+30.13401 84 27 80.86599 27 77 c
+27 73.13401 30.13401 70 34 70 c
+37.86599 70 41 73.13401 41 77 c
+f*
+BT /F5 7.8 Tf 9.36 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 50 80 Tm (Datasources) Tj T* ET
+BT /F1 6.2 Tf 7.44 TL ET
+.419608 .447059 .501961 rg
+BT 1 0 0 1 50 69 Tm (Manage external datasources used in Creator) Tj T* ET
+.6 w
+.768627 .788235 .831373 RG
+1 1 1 rg
+n
+285 68 m
+347 68 l
+348.6584 68 350 69.3416 350 71 c
+350 82 l
+350 83.6584 348.6584 85 347 85 c
+285 85 l
+283.3416 85 282 83.6584 282 82 c
+282 71 l
+282 69.3416 283.3416 68 285 68 c
+h
+B*
+BT /F1 6.5 Tf 7.8 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 306.2468 74.2 Tm (Create) Tj T* ET
+.6 w
+.827451 .843137 .878431 RG
+1 1 1 rg
+n
+20 15 m
+360 15 l
+362.2112 15 364 16.7888 364 19 c
+364 47 l
+364 49.2112 362.2112 51 360 51 c
+20 51 l
+17.7888 51 16 49.2112 16 47 c
+16 19 l
+16 16.7888 17.7888 15 20 15 c
+h
+B*
+.909804 .921569 .952941 rg
+n
+41 33 m
+41 36.86599 37.86599 40 34 40 c
+30.13401 40 27 36.86599 27 33 c
+27 29.13401 30.13401 26 34 26 c
+37.86599 26 41 29.13401 41 33 c
+f*
+BT /F5 7.8 Tf 9.36 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 50 36 Tm (Custom API) Tj T* ET
+BT /F1 6.2 Tf 7.44 TL ET
+.419608 .447059 .501961 rg
+BT 1 0 0 1 50 25 Tm (Create your own APIs and define their outputs) Tj T* ET
+.6 w
+.768627 .788235 .831373 RG
+1 1 1 rg
+n
+285 24 m
+347 24 l
+348.6584 24 350 25.3416 350 27 c
+350 38 l
+350 39.6584 348.6584 41 347 41 c
+285 41 l
+283.3416 41 282 39.6584 282 38 c
+282 27 l
+282 25.3416 283.3416 24 285 24 c
+h
+B*
+BT /F1 6.5 Tf 7.8 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 306.2468 30.2 Tm (Create) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 245.5898 cm
+q
+BT 1 0 0 1 0 15.2 Tm 1.269039 Tw 12.4 TL /F3 9.6 Tf 0 0 0 rg (The Create New Microservice panel lists AI Models, Connections, Datasources, and Custom API; the Connections option) Tj T* 0 Tw (\(Connect apps with third-party services\) is selected using Pick & Create.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 194.9898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 18 32.1 Tm /F4 10.5 Tf 14.2 TL .921685 Tw (4. In the Zoho Calendar \226 Add Connection dialog, enter the connection name zoho_calendar_connection, set) Tj T* 0 Tw 1.083045 Tw (Authorization Access to Administrators only, choose Quick connect \(Zoho credential\), enable access for All) Tj T* 0 Tw (Actions, and click Create And Authorize.) Tj T* ET
+Q
+Q
+q
+BT /F4 9.5 Tf 11.4 TL ET
+.121569 .164706 .419608 rg
+BT 1 0 0 1 309.0956 805.8898 Tm (Zoho Creator Integration with Zoho Calendar \227 Lab Record) Tj T* ET
+.788235 .803922 .878431 RG
+.6 w
+n 54 799.8898 m 541.2756 799.8898 l S
+n 54 48 m 541.2756 48 l S
+BT 1 0 0 1 54 36 Tm (241401104) Tj T* ET
+BT 1 0 0 1 276.1345 36 Tm (Page 1 of 4) Tj T* ET
+Q
+ 
+
+endstream
+endobj
+17 0 obj
+<<
+/Length 2
+>>
+stream
+q
+
+endstream
+endobj
+16 0 obj
+<<
+/Filter /FlateDecode
+/Length 18 0 R
+>>
+stream
+xú]àK
+É@˜}äw€Ó˘ÿBt-È$DdëxpÑ…&≈+ﬁJüä∞â©‚∑›ˇR·—Â¬%∏øirÍóõ`€IpÚ›®ü&'i1Œ¶<d¯É."ö´VMmcÎ‘⁄F¯ãÆNkÂ "
+û
+endstream
+endobj
+18 0 obj
+112
+endobj
+3 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 595.2756 841.8898]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.12
+>>
+/GS0 <<
+/ca 0.5
+/CA 1
+/BM /Normal
+/AIS false
+/SMask /None
+>>
+>>
+/Font <<
+/F1 4 0 R
+/F2 5 0 R
+/F3 6 0 R
+/F4 7 0 R
+/F5 8 0 R
+/F6 9 0 R
+/F7 15 0 R
+>>
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+>>
+/Contents [17 0 R 10 0 R 16 0 R]
+/Trans <<
+>>
+/Parent 2 0 R
+>>
+endobj
+20 0 obj
+<<
+/Length 11801
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 54 779.8898 cm
+Q
+q
+1 0 0 1 54 592.6898 cm
+q
+.78 0 0 .78 0 0 cm
+.8 w
+.811765 .831373 .870588 RG
+.984314 .988235 .996078 rg
+n
+5 0 m
+375 0 l
+377.764 0 380 2.236 380 5 c
+380 235 l
+380 237.764 377.764 240 375 240 c
+5 240 l
+2.236 240 0 237.764 0 235 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+B*
+.6 w
+.811765 .831373 .870588 RG
+.945098 .952941 .972549 rg
+n
+5 214 m
+375 214 l
+377.764 214 380 216.236 380 219 c
+380 235 l
+380 237.764 377.764 240 375 240 c
+5 240 l
+2.236 240 0 237.764 0 235 c
+0 219 l
+0 216.236 2.236 214 5 214 c
+h
+B*
+BT /F5 8.2 Tf 9.84 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 14 223 Tm (Zoho Calendar \226 Add Connection) Tj T* ET
+BT /F5 7 Tf 8.4 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 16 193 Tm (Connection Name *) Tj T* ET
+.6 w
+.768627 .788235 .831373 RG
+1 1 1 rg
+n
+143 188 m
+357 188 l
+358.6584 188 360 189.3416 360 191 c
+360 203 l
+360 204.6584 358.6584 206 357 206 c
+143 206 l
+141.3416 206 140 204.6584 140 203 c
+140 191 l
+140 189.3416 141.3416 188 143 188 c
+h
+B*
+BT /F1 6.8 Tf 8.16 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 146 194.7 Tm (zoho_calendar_connection) Tj T* ET
+BT /F5 7 Tf 8.4 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 16 157 Tm (Authorization Access) Tj T* ET
+.184314 .435294 .929412 RG
+.8 w
+1 1 1 rg
+n
+149.2 159 m
+149.2 160.7673 147.7673 162.2 146 162.2 c
+144.2327 162.2 142.8 160.7673 142.8 159 c
+142.8 157.2327 144.2327 155.8 146 155.8 c
+147.7673 155.8 149.2 157.2327 149.2 159 c
+B*
+.184314 .435294 .929412 rg
+n
+147.6 159 m
+147.6 159.8837 146.8837 160.6 146 160.6 c
+145.1163 160.6 144.4 159.8837 144.4 159 c
+144.4 158.1163 145.1163 157.4 146 157.4 c
+146.8837 157.4 147.6 158.1163 147.6 159 c
+f*
+BT /F1 7 Tf 8.4 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 154 157 Tm (Administrators only) Tj T* ET
+.603922 .631373 .690196 RG
+.8 w
+1 1 1 rg
+n
+263.2 159 m
+263.2 160.7673 261.7673 162.2 260 162.2 c
+258.2327 162.2 256.8 160.7673 256.8 159 c
+256.8 157.2327 258.2327 155.8 260 155.8 c
+261.7673 155.8 263.2 157.2327 263.2 159 c
+B*
+BT /F1 7 Tf 8.4 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 268 157 Tm (All users) Tj T* ET
+BT /F5 7 Tf 8.4 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 16 127 Tm (Connection Mode) Tj T* ET
+.184314 .435294 .929412 RG
+.8 w
+1 1 1 rg
+n
+149.2 129 m
+149.2 130.7673 147.7673 132.2 146 132.2 c
+144.2327 132.2 142.8 130.7673 142.8 129 c
+142.8 127.2327 144.2327 125.8 146 125.8 c
+147.7673 125.8 149.2 127.2327 149.2 129 c
+B*
+.184314 .435294 .929412 rg
+n
+147.6 129 m
+147.6 129.8837 146.8837 130.6 146 130.6 c
+145.1163 130.6 144.4 129.8837 144.4 129 c
+144.4 128.1163 145.1163 127.4 146 127.4 c
+146.8837 127.4 147.6 128.1163 147.6 129 c
+f*
+BT /F1 7 Tf 8.4 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 154 127 Tm (Quick connect \(Zoho credential\)) Tj T* ET
+.603922 .631373 .690196 RG
+.8 w
+1 1 1 rg
+n
+149.2 107 m
+149.2 108.7673 147.7673 110.2 146 110.2 c
+144.2327 110.2 142.8 108.7673 142.8 107 c
+142.8 105.2327 144.2327 103.8 146 103.8 c
+147.7673 103.8 149.2 105.2327 149.2 107 c
+B*
+BT /F1 7 Tf 8.4 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 154 105 Tm (Custom OAuth connection) Tj T* ET
+BT /F5 7 Tf 8.4 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 16 75 Tm (Access) Tj T* ET
+.6 w
+.184314 .435294 .929412 RG
+.184314 .435294 .929412 rg
+n
+144 73.5 m
+148 73.5 l
+148.8292 73.5 149.5 74.1708 149.5 75 c
+149.5 79 l
+149.5 79.8292 148.8292 80.5 148 80.5 c
+144 80.5 l
+143.1708 80.5 142.5 79.8292 142.5 79 c
+142.5 75 l
+142.5 74.1708 143.1708 73.5 144 73.5 c
+h
+B*
+1 1 1 RG
+1 w
+n 144 77 m 145.5 75.2 l S
+n 145.5 75.2 m 148.2 79 l S
+BT /F1 7 Tf 8.4 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 154 75 Tm (All Actions) Tj T* ET
+BT /F1 6.2 Tf 7.44 TL ET
+.419608 .447059 .501961 rg
+BT 1 0 0 1 146 62 Tm (Create Calendar \267 Create Event \267 Get all Calendars) Tj T* ET
+.6 w
+.768627 .788235 .831373 RG
+1 1 1 rg
+n
+165 12 m
+219 12 l
+220.6584 12 222 13.3416 222 15 c
+222 27 l
+222 28.6584 220.6584 30 219 30 c
+165 30 l
+163.3416 30 162 28.6584 162 27 c
+162 15 l
+162 13.3416 163.3416 12 165 12 c
+h
+B*
+BT /F1 6.5 Tf 7.8 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 181.886 18.7 Tm (Cancel) Tj T* ET
+.6 w
+.184314 .435294 .929412 RG
+.184314 .435294 .929412 rg
+n
+233 12 m
+361 12 l
+362.6584 12 364 13.3416 364 15 c
+364 27 l
+364 28.6584 362.6584 30 361 30 c
+233 30 l
+231.3416 30 230 28.6584 230 27 c
+230 15 l
+230 13.3416 231.3416 12 233 12 c
+h
+B*
+BT /F5 6.5 Tf 7.8 TL ET
+1 1 1 rg
+BT 1 0 0 1 263.7753 18.7 Tm (Create And Authorize) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 550.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 27.6 Tm /F3 9.6 Tf 12.4 TL .501856 Tw (The Zoho Calendar \226 Add Connection dialog with the connection name zoho_calendar_connection, Authorization Access set) Tj T* 0 Tw .084635 Tw (to Administrators only, Connection Mode set to Quick connect \(Zoho credential\), and access enabled for All Actions, followed) Tj T* 0 Tw (by Create And Authorize.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 528.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Phase B: Verifying Scopes and Application References) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 510.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 18 3.7 Tm /F4 10.5 Tf 14.2 TL (5. Click directly on the Zoho Calendar Connection asset to open its security and permission settings dashboard.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 478.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 18 17.9 Tm /F4 10.5 Tf 14.2 TL 1.404139 Tw (6. In the left panel, inspect the assigned operational permissions to confirm API access capabilities \(Create) Tj T* 0 Tw (Calendar, Create Event, Get all Calendars\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 447.4898 cm
+q
+BT 1 0 0 1 18 17.9 Tm .071594 Tw 14.2 TL /F4 10.5 Tf 0 0 0 rg (7. In the main pane, verify that the application link for the Insurance Claim Request & Processing Management) Tj T* 0 Tw (application is explicitly switched On under the Connection Access matrix.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 440.4898 cm
+Q
+q
+1 0 0 1 54 292.2898 cm
+q
+.78 0 0 .78 0 0 cm
+.8 w
+.811765 .831373 .870588 RG
+.984314 .988235 .996078 rg
+n
+5 0 m
+425 0 l
+427.764 0 430 2.236 430 5 c
+430 185 l
+430 187.764 427.764 190 425 190 c
+5 190 l
+2.236 190 0 187.764 0 185 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+B*
+.6 w
+.811765 .831373 .870588 RG
+.956863 .964706 .984314 rg
+n
+5 0 m
+137 0 l
+139.764 0 142 2.236 142 5 c
+142 185 l
+142 187.764 139.764 190 137 190 c
+5 190 l
+2.236 190 0 187.764 0 185 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+B*
+BT /F5 7.8 Tf 9.36 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 12 170 Tm (Zoho Calendar Connection) Tj T* ET
+BT /F1 6.6 Tf 7.92 TL ET
+.294118 .333333 .388235 rg
+BT 1 0 0 1 12 154 Tm (Service: Zoho Calendar) Tj T* ET
+BT /F1 6.6 Tf 7.92 TL ET
+.294118 .333333 .388235 rg
+BT 1 0 0 1 12 142 Tm (Link name:) Tj T* ET
+BT /F5 6.6 Tf 7.92 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 12 132 Tm (zoho_calendar_connection) Tj T* ET
+BT /F5 6.2 Tf 7.44 TL ET
+.419608 .447059 .501961 rg
+BT 1 0 0 1 12 108 Tm (PERMISSIONS) Tj T* ET
+.6 w
+.184314 .435294 .929412 RG
+.184314 .435294 .929412 rg
+n
+15 88.5 m
+19 88.5 l
+19.8292 88.5 20.5 89.1708 20.5 90 c
+20.5 94 l
+20.5 94.8292 19.8292 95.5 19 95.5 c
+15 95.5 l
+14.1708 95.5 13.5 94.8292 13.5 94 c
+13.5 90 l
+13.5 89.1708 14.1708 88.5 15 88.5 c
+h
+B*
+1 1 1 RG
+1 w
+n 15 92 m 16.5 90.2 l S
+n 16.5 90.2 m 19.2 94 l S
+BT /F1 7 Tf 8.4 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 28 89.5 Tm (Create Calendar) Tj T* ET
+.6 w
+.184314 .435294 .929412 RG
+.184314 .435294 .929412 rg
+n
+15 71.5 m
+19 71.5 l
+19.8292 71.5 20.5 72.1708 20.5 73 c
+20.5 77 l
+20.5 77.8292 19.8292 78.5 19 78.5 c
+15 78.5 l
+14.1708 78.5 13.5 77.8292 13.5 77 c
+13.5 73 l
+13.5 72.1708 14.1708 71.5 15 71.5 c
+h
+B*
+1 1 1 RG
+1 w
+n 15 75 m 16.5 73.2 l S
+n 16.5 73.2 m 19.2 77 l S
+BT /F1 7 Tf 8.4 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 28 72.5 Tm (Create Event) Tj T* ET
+.6 w
+.184314 .435294 .929412 RG
+.184314 .435294 .929412 rg
+n
+15 54.5 m
+19 54.5 l
+19.8292 54.5 20.5 55.1708 20.5 56 c
+20.5 60 l
+20.5 60.8292 19.8292 61.5 19 61.5 c
+15 61.5 l
+14.1708 61.5 13.5 60.8292 13.5 60 c
+13.5 56 l
+13.5 55.1708 14.1708 54.5 15 54.5 c
+h
+B*
+1 1 1 RG
+1 w
+n 15 58 m 16.5 56.2 l S
+n 16.5 56.2 m 19.2 60 l S
+BT /F1 7 Tf 8.4 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 28 55.5 Tm (Get all Calendars) Tj T* ET
+BT /F5 6.2 Tf 7.44 TL ET
+.419608 .447059 .501961 rg
+BT 1 0 0 1 12 28 Tm (AUTHORIZATION OWNER) Tj T* ET
+BT /F1 7 Tf 8.4 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 12 15 Tm (Administrator) Tj T* ET
+BT /F5 8.2 Tf 9.84 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 160 170 Tm (Connection Access) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+.419608 .447059 .501961 rg
+BT 1 0 0 1 160 158 Tm (Choose which applications can use this connection) Tj T* ET
+.6 w
+.827451 .843137 .878431 RG
+.933333 .941176 .964706 rg
+n
+163 128 m
+411 128 l
+412.6584 128 414 129.3416 414 131 c
+414 145 l
+414 146.6584 412.6584 148 411 148 c
+163 148 l
+161.3416 148 160 146.6584 160 145 c
+160 131 l
+160 129.3416 161.3416 128 163 128 c
+h
+B*
+BT /F5 6.8 Tf 8.16 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 168 135 Tm (Application) Tj T* ET
+BT /F5 6.8 Tf 8.16 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 368 135 Tm (Access) Tj T* ET
+.6 w
+.827451 .843137 .878431 RG
+1 1 1 rg
+n
+163 98 m
+411 98 l
+412.6584 98 414 99.3416 414 101 c
+414 125 l
+414 126.6584 412.6584 128 411 128 c
+163 128 l
+161.3416 128 160 126.6584 160 125 c
+160 101 l
+160 99.3416 161.3416 98 163 98 c
+h
+B*
+BT /F5 6.9 Tf 8.28 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 168 117 Tm (Insurance Claim Request & Processing) Tj T* ET
+BT /F5 6.9 Tf 8.28 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 168 107 Tm (Management) Tj T* ET
+.6 w
+1 1 1 RG
+.133333 .643137 .364706 rg
+n
+370.5 107 m
+387.5 107 l
+391.0932 107 394 109.9068 394 113.5 c
+394 113.5 l
+394 117.0932 391.0932 120 387.5 120 c
+370.5 120 l
+366.9068 120 364 117.0932 364 113.5 c
+364 113.5 l
+364 109.9068 366.9068 107 370.5 107 c
+h
+f*
+1 1 1 rg
+n
+392.6 113.5 m
+392.6 116.0405 390.5405 118.1 388 118.1 c
+385.4595 118.1 383.4 116.0405 383.4 113.5 c
+383.4 110.9595 385.4595 108.9 388 108.9 c
+390.5405 108.9 392.6 110.9595 392.6 113.5 c
+f*
+BT /F5 6.5 Tf 7.8 TL ET
+.133333 .643137 .364706 rg
+BT 1 0 0 1 396 110 Tm (On) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 250.0898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 27.6 Tm /F3 9.6 Tf 12.4 TL 6.100338 Tw (The Zoho Calendar Connection management panel showing the service name \(Zoho Calendar\), link name) Tj T* 0 Tw .628699 Tw (zoho_calendar_connection, the granted permissions, the authorization owner \(Administrator\), and the application toggle set) Tj T* 0 Tw (to On under Connection Access.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 228.0898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Phase C: Setting Up Conditional Rules) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 195.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 18 17.9 Tm /F4 10.5 Tf 14.2 TL .417189 Tw (8. Navigate back to the core application, select the Claim Request Form, and click on the Workflow tab in the) Tj T* 0 Tw (top header.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 164.2898 cm
+q
+BT 1 0 0 1 18 17.9 Tm .874661 Tw 14.2 TL /F4 10.5 Tf 0 0 0 rg (9. Create a new form workflow named Sync_To_Zoho_Calendar structured to execute: Created > Successful) Tj T* 0 Tw (form submission.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 147.0898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 18 3.7 Tm /F4 10.5 Tf 14.2 TL (10. Inside the action builder, switch the run parameter from Always to on condition.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 101.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 18 32.1 Tm /F4 10.5 Tf 14.2 TL .361888 Tw (11. Open the field mapping tools to link the conditional gate. Choose the Declaration field, set the comparison) Tj T* 0 Tw .774033 Tw (operator to equals, and bind the value to the checkbox choice: 'I declare that the information provided is true) Tj T* 0 Tw (and accurate.') Tj T* ET
+Q
+Q
+q
+BT /F4 9.5 Tf 11.4 TL ET
+.121569 .164706 .419608 rg
+BT 1 0 0 1 309.0956 805.8898 Tm (Zoho Creator Integration with Zoho Calendar \227 Lab Record) Tj T* ET
+.788235 .803922 .878431 RG
+.6 w
+n 54 799.8898 m 541.2756 799.8898 l S
+n 54 48 m 541.2756 48 l S
+BT 1 0 0 1 54 36 Tm (241401104) Tj T* ET
+BT 1 0 0 1 276.1345 36 Tm (Page 2 of 4) Tj T* ET
+Q
+ 
+
+endstream
+endobj
+21 0 obj
+<<
+/Filter /FlateDecode
+/Length 22 0 R
+>>
+stream
+xú]àK
+¬PEÁY≈›@”‰}“Å`≥≈Ç‡@ª	œâ˜pWz5ÑMLø˛èTús∆Pù=M∏>È4û/ém'¡ó˜F„¢ƒù‘ç+í)Oq£Éà÷¶5Kﬂ‹ªÙ∂Ò†S–⁄¯ Ar—
+endstream
+endobj
+22 0 obj
+112
+endobj
+19 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 595.2756 841.8898]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.12
+>>
+/GS9 <<
+/ca 0.5
+/CA 1
+/BM /Normal
+/AIS false
+/SMask /None
+>>
+>>
+/Font <<
+/F1 4 0 R
+/F2 5 0 R
+/F3 6 0 R
+/F4 7 0 R
+/F5 8 0 R
+/F6 9 0 R
+/F10 15 0 R
+>>
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+>>
+/Contents [17 0 R 20 0 R 21 0 R]
+/Trans <<
+>>
+/Parent 2 0 R
+>>
+endobj
+24 0 obj
+<<
+/Length 18023
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 54 779.8898 cm
+Q
+q
+1 0 0 1 54 584.8898 cm
+q
+.78 0 0 .78 0 0 cm
+.8 w
+.811765 .831373 .870588 RG
+.984314 .988235 .996078 rg
+n
+5 0 m
+425 0 l
+427.764 0 430 2.236 430 5 c
+430 245 l
+430 247.764 427.764 250 425 250 c
+5 250 l
+2.236 250 0 247.764 0 245 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+B*
+.6 w
+.811765 .831373 .870588 RG
+.945098 .952941 .972549 rg
+n
+5 224 m
+425 224 l
+427.764 224 430 226.236 430 229 c
+430 245 l
+430 247.764 427.764 250 425 250 c
+5 250 l
+2.236 250 0 247.764 0 245 c
+0 229 l
+0 226.236 2.236 224 5 224 c
+h
+B*
+BT /F5 8.4 Tf 10.08 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 14 233 Tm (Add New Action) Tj T* ET
+BT /F1 6.4 Tf 7.68 TL ET
+.419608 .447059 .501961 rg
+BT 1 0 0 1 14 210 Tm (Claim_Request_Form \233 Created \233 Successful form submission \233 Sync_To_Zoho_Calendar) Tj T* ET
+BT /F5 7 Tf 8.4 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 14 188 Tm (Run this action) Tj T* ET
+.603922 .631373 .690196 RG
+.8 w
+1 1 1 rg
+n
+103.2 190 m
+103.2 191.7673 101.7673 193.2 100 193.2 c
+98.23269 193.2 96.8 191.7673 96.8 190 c
+96.8 188.2327 98.23269 186.8 100 186.8 c
+101.7673 186.8 103.2 188.2327 103.2 190 c
+B*
+BT /F1 7 Tf 8.4 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 108 188 Tm (Always) Tj T* ET
+.184314 .435294 .929412 RG
+.8 w
+1 1 1 rg
+n
+153.2 190 m
+153.2 191.7673 151.7673 193.2 150 193.2 c
+148.2327 193.2 146.8 191.7673 146.8 190 c
+146.8 188.2327 148.2327 186.8 150 186.8 c
+151.7673 186.8 153.2 188.2327 153.2 190 c
+B*
+.184314 .435294 .929412 rg
+n
+151.6 190 m
+151.6 190.8837 150.8837 191.6 150 191.6 c
+149.1163 191.6 148.4 190.8837 148.4 190 c
+148.4 189.1163 149.1163 188.4 150 188.4 c
+150.8837 188.4 151.6 189.1163 151.6 190 c
+f*
+BT /F1 7 Tf 8.4 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 158 188 Tm (on condition) Tj T* ET
+BT /F1 6 Tf 7.2 TL ET
+.419608 .447059 .501961 rg
+BT 1 0 0 1 14 170 Tm (Select Field) Tj T* ET
+.6 w
+.768627 .788235 .831373 RG
+1 1 1 rg
+n
+17 148 m
+119 148 l
+120.6584 148 122 149.3416 122 151 c
+122 162 l
+122 163.6584 120.6584 165 119 165 c
+17 165 l
+15.3416 165 14 163.6584 14 162 c
+14 151 l
+14 149.3416 15.3416 148 17 148 c
+h
+B*
+BT /F1 6.3 Tf 7.56 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 20 154.2 Tm (Declaration) Tj T* ET
+BT /F1 6 Tf 7.2 TL ET
+.419608 .447059 .501961 rg
+BT 1 0 0 1 128 170 Tm (Select Operator) Tj T* ET
+.6 w
+.768627 .788235 .831373 RG
+1 1 1 rg
+n
+131 148 m
+203 148 l
+204.6584 148 206 149.3416 206 151 c
+206 162 l
+206 163.6584 204.6584 165 203 165 c
+131 165 l
+129.3416 165 128 163.6584 128 162 c
+128 151 l
+128 149.3416 129.3416 148 131 148 c
+h
+B*
+BT /F1 6.3 Tf 7.56 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 134 154.2 Tm (equals) Tj T* ET
+BT /F1 6 Tf 7.2 TL ET
+.419608 .447059 .501961 rg
+BT 1 0 0 1 214 170 Tm (Enter Value) Tj T* ET
+.6 w
+.768627 .788235 .831373 RG
+1 1 1 rg
+n
+217 148 m
+413 148 l
+414.6584 148 416 149.3416 416 151 c
+416 162 l
+416 163.6584 414.6584 165 413 165 c
+217 165 l
+215.3416 165 214 163.6584 214 162 c
+214 151 l
+214 149.3416 215.3416 148 217 148 c
+h
+B*
+BT /F1 6.3 Tf 7.56 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 220 154.2 Tm (I declare that the information provided is true and accurate.) Tj T* ET
+BT /F5 7 Tf 8.4 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 14 126 Tm (Action type) Tj T* ET
+.6 w
+.827451 .843137 .878431 RG
+1 1 1 rg
+n
+18 84 m
+205 84 l
+207.2112 84 209 85.7888 209 88 c
+209 118 l
+209 120.2112 207.2112 122 205 122 c
+18 122 l
+15.7888 122 14 120.2112 14 118 c
+14 88 l
+14 85.7888 15.7888 84 18 84 c
+h
+B*
+BT /F5 7.4 Tf 8.88 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 24 107 Tm (Notification) Tj T* ET
+BT /F1 5.9 Tf 7.08 TL ET
+.419608 .447059 .501961 rg
+BT 1 0 0 1 24 95 Tm (Notify through email, SMS, Redirect to URL) Tj T* ET
+.6 w
+.827451 .843137 .878431 RG
+1 1 1 rg
+n
+225 84 m
+412 84 l
+414.2112 84 416 85.7888 416 88 c
+416 118 l
+416 120.2112 414.2112 122 412 122 c
+225 122 l
+222.7888 122 221 120.2112 221 118 c
+221 88 l
+221 85.7888 222.7888 84 225 84 c
+h
+B*
+BT /F5 7.4 Tf 8.88 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 231 107 Tm (Data access) Tj T* ET
+BT /F1 5.9 Tf 7.08 TL ET
+.419608 .447059 .501961 rg
+BT 1 0 0 1 231 95 Tm (Add, update records in another form) Tj T* ET
+.6 w
+.827451 .843137 .878431 RG
+1 1 1 rg
+n
+18 38 m
+205 38 l
+207.2112 38 209 39.7888 209 42 c
+209 72 l
+209 74.2112 207.2112 76 205 76 c
+18 76 l
+15.7888 76 14 74.2112 14 72 c
+14 42 l
+14 39.7888 15.7888 38 18 38 c
+h
+B*
+BT /F5 7.4 Tf 8.88 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 24 61 Tm (Integrations) Tj T* ET
+BT /F1 5.9 Tf 7.08 TL ET
+.419608 .447059 .501961 rg
+BT 1 0 0 1 24 49 Tm (Push submitted data to another service) Tj T* ET
+1 w
+.184314 .435294 .929412 RG
+.94902 .968627 1 rg
+n
+225 38 m
+412 38 l
+414.2112 38 416 39.7888 416 42 c
+416 72 l
+416 74.2112 414.2112 76 412 76 c
+225 76 l
+222.7888 76 221 74.2112 221 72 c
+221 42 l
+221 39.7888 222.7888 38 225 38 c
+h
+B*
+BT /F5 7.4 Tf 8.88 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 231 61 Tm (fx  Deluge script) Tj T* ET
+BT /F1 5.9 Tf 7.08 TL ET
+.419608 .447059 .501961 rg
+BT 1 0 0 1 231 49 Tm (Write script in events like on load, on success) Tj T* ET
+.6 w
+.768627 .788235 .831373 RG
+1 1 1 rg
+n
+315 8 m
+359 8 l
+360.6584 8 362 9.3416 362 11 c
+362 21 l
+362 22.6584 360.6584 24 359 24 c
+315 24 l
+313.3416 24 312 22.6584 312 21 c
+312 11 l
+312 9.3416 313.3416 8 315 8 c
+h
+B*
+BT /F1 6.5 Tf 7.8 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 326.886 13.7 Tm (Cancel) Tj T* ET
+.6 w
+.184314 .435294 .929412 RG
+.184314 .435294 .929412 rg
+n
+371 8 m
+413 8 l
+414.6584 8 416 9.3416 416 11 c
+416 21 l
+416 22.6584 414.6584 24 413 24 c
+371 24 l
+369.3416 24 368 22.6584 368 21 c
+368 11 l
+368 9.3416 369.3416 8 371 8 c
+h
+B*
+BT /F5 6.5 Tf 7.8 TL ET
+1 1 1 rg
+BT 1 0 0 1 384.4112 13.7 Tm (Save) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 542.6898 cm
+q
+BT 1 0 0 1 0 27.6 Tm .332324 Tw 12.4 TL /F3 9.6 Tf 0 0 0 rg (The Add New Action panel for the Sync_To_Zoho_Calendar workflow \(Created > Successful form submission\), with Run this) Tj T* 0 Tw .207485 Tw (action set to on condition, the Select Field / Select Operator / Enter Value condition builder filled in, and the available action) Tj T* 0 Tw (types: Notification, Data access, Integrations, and Deluge script.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 520.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Phase D: Compiling the Deluge Script Code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 502.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 18 3.7 Tm /F4 10.5 Tf 14.2 TL (12. Select Deluge script \(fx\) from the Action type grid to open the embedded Deluge editor workspace.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 456.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 18 32.1 Tm /F4 10.5 Tf 14.2 TL 6.460435 Tw (13. Remove the template elements and insert the data map using the validated field tokens) Tj T* 0 Tw 1.197872 Tw (\(input.Policy_Number and input.Claim_Type\), along with the claimant name, contact number, and preferred) Tj T* 0 Tw (callback time fields.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 425.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 18 17.9 Tm /F4 10.5 Tf 14.2 TL .004537 Tw (14. Input the structured invokeurl task block targeting the Zoho Calendar API and reference the connection link) Tj T* 0 Tw (name \(zoho_calendar_connection\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 408.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 18 3.7 Tm /F4 10.5 Tf 14.2 TL (15. Click the blue Update button in the bottom-right corner to run the compiler validation and save the script.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 401.2898 cm
+Q
+q
+1 0 0 1 54 139.2098 cm
+q
+.78 0 0 .78 0 0 cm
+.8 w
+.811765 .831373 .870588 RG
+.984314 .988235 .996078 rg
+n
+5 0 m
+435 0 l
+437.764 0 440 2.236 440 5 c
+440 331 l
+440 333.764 437.764 336 435 336 c
+5 336 l
+2.236 336 0 333.764 0 331 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+B*
+.6 w
+.811765 .831373 .870588 RG
+.945098 .952941 .972549 rg
+n
+5 296 m
+435 296 l
+437.764 296 440 298.236 440 301 c
+440 331 l
+440 333.764 437.764 336 435 336 c
+5 336 l
+2.236 336 0 333.764 0 331 c
+0 301 l
+0 298.236 2.236 296 5 296 c
+h
+B*
+BT /F5 8.4 Tf 10.08 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 14 320 Tm (Deluge Script) Tj T* ET
+BT /F1 6.2 Tf 7.44 TL ET
+.419608 .447059 .501961 rg
+BT 1 0 0 1 14 306 Tm (Claim_Request_Form \233 Created \233 Successful form submission \233 Sync_To_Zoho_Calendar) Tj T* ET
+.6 w
+.811765 .831373 .870588 RG
+.956863 .964706 .984314 rg
+n
+0 0 m
+78 0 l
+78 0 78 0 78 0 c
+78 296 l
+78 296 78 296 78 296 c
+0 296 l
+0 296 0 296 0 296 c
+0 0 l
+0 0 0 0 0 0 c
+h
+B*
+BT /F5 6.4 Tf 7.68 TL ET
+.419608 .447059 .501961 rg
+BT 1 0 0 1 8 278 Tm (Condition) Tj T* ET
+BT /F1 6.4 Tf 7.68 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 14 267 Tm (if) Tj T* ET
+BT /F1 6.4 Tf 7.68 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 14 257 Tm (else if) Tj T* ET
+BT /F1 6.4 Tf 7.68 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 14 247 Tm (else) Tj T* ET
+BT /F5 6.4 Tf 7.68 TL ET
+.419608 .447059 .501961 rg
+BT 1 0 0 1 8 230 Tm (Data Access) Tj T* ET
+BT /F1 6.4 Tf 7.68 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 14 219 Tm (add record) Tj T* ET
+BT /F1 6.4 Tf 7.68 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 14 209 Tm (fetch records) Tj T* ET
+BT /F1 6.4 Tf 7.68 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 14 199 Tm (update record) Tj T* ET
+BT /F5 6.4 Tf 7.68 TL ET
+.419608 .447059 .501961 rg
+BT 1 0 0 1 8 182 Tm (Integration) Tj T* ET
+BT /F1 6.4 Tf 7.68 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 14 171 Tm (invoke url) Tj T* ET
+BT /F1 6.4 Tf 7.68 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 14 161 Tm (send mail) Tj T* ET
+BT /F1 6.4 Tf 7.68 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 14 151 Tm (info) Tj T* ET
+BT /F6 5.6 Tf 6.72 TL ET
+.603922 .631373 .690196 rg
+BT 1 0 0 1 94.64 286 Tm (1) Tj T* ET
+BT /F6 5.9 Tf 7.08 TL ET
+.419608 .556863 .352941 rg
+BT 1 0 0 1 105 286 Tm (// 1. Fetch the calendar that will hold the callback event) Tj T* ET
+BT /F6 5.6 Tf 6.72 TL ET
+.603922 .631373 .690196 rg
+BT 1 0 0 1 94.64 278 Tm (2) Tj T* ET
+BT /F6 5.9 Tf 7.08 TL ET
+.121569 .160784 .215686 rg
+BT 1 0 0 1 105 278 Tm (calendars = invokeurl) Tj T* ET
+BT /F6 5.6 Tf 6.72 TL ET
+.603922 .631373 .690196 rg
+BT 1 0 0 1 94.64 270 Tm (3) Tj T* ET
+BT /F6 5.9 Tf 7.08 TL ET
+.121569 .160784 .215686 rg
+BT 1 0 0 1 105 270 Tm ([) Tj T* ET
+BT /F6 5.6 Tf 6.72 TL ET
+.603922 .631373 .690196 rg
+BT 1 0 0 1 94.64 262 Tm (4) Tj T* ET
+BT /F6 5.9 Tf 7.08 TL ET
+.121569 .160784 .215686 rg
+BT 1 0 0 1 105 262 Tm (    url :"https://calendar.zoho.in/api/v1/calendars") Tj T* ET
+BT /F6 5.6 Tf 6.72 TL ET
+.603922 .631373 .690196 rg
+BT 1 0 0 1 94.64 254 Tm (5) Tj T* ET
+BT /F6 5.9 Tf 7.08 TL ET
+.121569 .160784 .215686 rg
+BT 1 0 0 1 105 254 Tm (    type :GET) Tj T* ET
+BT /F6 5.6 Tf 6.72 TL ET
+.603922 .631373 .690196 rg
+BT 1 0 0 1 94.64 246 Tm (6) Tj T* ET
+BT /F6 5.9 Tf 7.08 TL ET
+.121569 .160784 .215686 rg
+BT 1 0 0 1 105 246 Tm (    connection:"zoho_calendar_connection") Tj T* ET
+BT /F6 5.6 Tf 6.72 TL ET
+.603922 .631373 .690196 rg
+BT 1 0 0 1 94.64 238 Tm (7) Tj T* ET
+BT /F6 5.9 Tf 7.08 TL ET
+.121569 .160784 .215686 rg
+BT 1 0 0 1 105 238 Tm (];) Tj T* ET
+BT /F6 5.6 Tf 6.72 TL ET
+.603922 .631373 .690196 rg
+BT 1 0 0 1 94.64 230 Tm (8) Tj T* ET
+BT /F6 5.9 Tf 7.08 TL ET
+.121569 .160784 .215686 rg
+BT 1 0 0 1 105 230 Tm (calendarUid = calendars.get\("calendars"\).get\(0\).get\("uid"\);) Tj T* ET
+BT /F6 5.6 Tf 6.72 TL ET
+.603922 .631373 .690196 rg
+BT 1 0 0 1 94.64 222 Tm (9) Tj T* ET
+BT /F6 5.9 Tf 7.08 TL ET
+.419608 .556863 .352941 rg
+BT 1 0 0 1 105 222 Tm (// 2. Build the callback date-time from the preferred callback slot) Tj T* ET
+BT /F6 5.6 Tf 6.72 TL ET
+.603922 .631373 .690196 rg
+BT 1 0 0 1 91.28 214 Tm (10) Tj T* ET
+BT /F6 5.9 Tf 7.08 TL ET
+.121569 .160784 .215686 rg
+BT 1 0 0 1 105 214 Tm (callbackDay = zoho.currentdate.addDay\(1\).toString\("dd-MMM-yyyy"\);) Tj T* ET
+BT /F6 5.6 Tf 6.72 TL ET
+.603922 .631373 .690196 rg
+BT 1 0 0 1 91.28 206 Tm (11) Tj T* ET
+BT /F6 5.9 Tf 7.08 TL ET
+.121569 .160784 .215686 rg
+BT 1 0 0 1 105 206 Tm (slot = callbackDay + " " + input.Preferred_Callback_Time;) Tj T* ET
+BT /F6 5.6 Tf 6.72 TL ET
+.603922 .631373 .690196 rg
+BT 1 0 0 1 91.28 198 Tm (12) Tj T* ET
+BT /F6 5.9 Tf 7.08 TL ET
+.121569 .160784 .215686 rg
+BT 1 0 0 1 105 198 Tm (startTime = slot.toTime\("dd-MMM-yyyy h:mm a"\);) Tj T* ET
+BT /F6 5.6 Tf 6.72 TL ET
+.603922 .631373 .690196 rg
+BT 1 0 0 1 91.28 190 Tm (13) Tj T* ET
+BT /F6 5.9 Tf 7.08 TL ET
+.121569 .160784 .215686 rg
+BT 1 0 0 1 105 190 Tm (endTime = startTime.addMinutes\(30\);) Tj T* ET
+BT /F6 5.6 Tf 6.72 TL ET
+.603922 .631373 .690196 rg
+BT 1 0 0 1 91.28 182 Tm (14) Tj T* ET
+BT /F6 5.9 Tf 7.08 TL ET
+.419608 .556863 .352941 rg
+BT 1 0 0 1 105 182 Tm (// 3. Map the event title, description and date-time) Tj T* ET
+BT /F6 5.6 Tf 6.72 TL ET
+.603922 .631373 .690196 rg
+BT 1 0 0 1 91.28 174 Tm (15) Tj T* ET
+BT /F6 5.9 Tf 7.08 TL ET
+.121569 .160784 .215686 rg
+BT 1 0 0 1 105 174 Tm (eventDetails = Map\(\);) Tj T* ET
+BT /F6 5.6 Tf 6.72 TL ET
+.603922 .631373 .690196 rg
+BT 1 0 0 1 91.28 166 Tm (16) Tj T* ET
+BT /F6 5.9 Tf 7.08 TL ET
+.121569 .160784 .215686 rg
+BT 1 0 0 1 105 166 Tm (eventDetails.put\("title","Claim Callback - " + input.Policy_Number\);) Tj T* ET
+BT /F6 5.6 Tf 6.72 TL ET
+.603922 .631373 .690196 rg
+BT 1 0 0 1 91.28 158 Tm (17) Tj T* ET
+BT /F6 5.9 Tf 7.08 TL ET
+.121569 .160784 .215686 rg
+BT 1 0 0 1 105 158 Tm (desc = input.Claimant_Name.first_name + " | " + input.Contact_Number;) Tj T* ET
+BT /F6 5.6 Tf 6.72 TL ET
+.603922 .631373 .690196 rg
+BT 1 0 0 1 91.28 150 Tm (18) Tj T* ET
+BT /F6 5.9 Tf 7.08 TL ET
+.121569 .160784 .215686 rg
+BT 1 0 0 1 105 150 Tm (desc = desc + " | " + input.Claim_Type;) Tj T* ET
+BT /F6 5.6 Tf 6.72 TL ET
+.603922 .631373 .690196 rg
+BT 1 0 0 1 91.28 142 Tm (19) Tj T* ET
+BT /F6 5.9 Tf 7.08 TL ET
+.121569 .160784 .215686 rg
+BT 1 0 0 1 105 142 Tm (eventDetails.put\("description",desc\);) Tj T* ET
+BT /F6 5.6 Tf 6.72 TL ET
+.603922 .631373 .690196 rg
+BT 1 0 0 1 91.28 134 Tm (20) Tj T* ET
+BT /F6 5.9 Tf 7.08 TL ET
+.121569 .160784 .215686 rg
+BT 1 0 0 1 105 134 Tm (dt = Map\(\);) Tj T* ET
+BT /F6 5.6 Tf 6.72 TL ET
+.603922 .631373 .690196 rg
+BT 1 0 0 1 91.28 126 Tm (21) Tj T* ET
+BT /F6 5.9 Tf 7.08 TL ET
+.121569 .160784 .215686 rg
+BT 1 0 0 1 105 126 Tm (dt.put\("timezone","Asia/Calcutta"\);) Tj T* ET
+BT /F6 5.6 Tf 6.72 TL ET
+.603922 .631373 .690196 rg
+BT 1 0 0 1 91.28 118 Tm (22) Tj T* ET
+BT /F6 5.9 Tf 7.08 TL ET
+.121569 .160784 .215686 rg
+BT 1 0 0 1 105 118 Tm (dt.put\("start",startTime.toString\("yyyyMMdd'T'HHmmss"\) + "+0530"\);) Tj T* ET
+BT /F6 5.6 Tf 6.72 TL ET
+.603922 .631373 .690196 rg
+BT 1 0 0 1 91.28 110 Tm (23) Tj T* ET
+BT /F6 5.9 Tf 7.08 TL ET
+.121569 .160784 .215686 rg
+BT 1 0 0 1 105 110 Tm (dt.put\("end",endTime.toString\("yyyyMMdd'T'HHmmss"\) + "+0530"\);) Tj T* ET
+BT /F6 5.6 Tf 6.72 TL ET
+.603922 .631373 .690196 rg
+BT 1 0 0 1 91.28 102 Tm (24) Tj T* ET
+BT /F6 5.9 Tf 7.08 TL ET
+.121569 .160784 .215686 rg
+BT 1 0 0 1 105 102 Tm (eventDetails.put\("dateandtime",dt\);) Tj T* ET
+BT /F6 5.6 Tf 6.72 TL ET
+.603922 .631373 .690196 rg
+BT 1 0 0 1 91.28 94 Tm (25) Tj T* ET
+BT /F6 5.9 Tf 7.08 TL ET
+.419608 .556863 .352941 rg
+BT 1 0 0 1 105 94 Tm (// 4. Create the event in Zoho Calendar and trace the response) Tj T* ET
+BT /F6 5.6 Tf 6.72 TL ET
+.603922 .631373 .690196 rg
+BT 1 0 0 1 91.28 86 Tm (26) Tj T* ET
+BT /F6 5.9 Tf 7.08 TL ET
+.121569 .160784 .215686 rg
+BT 1 0 0 1 105 86 Tm (response = invokeurl) Tj T* ET
+BT /F6 5.6 Tf 6.72 TL ET
+.603922 .631373 .690196 rg
+BT 1 0 0 1 91.28 78 Tm (27) Tj T* ET
+BT /F6 5.9 Tf 7.08 TL ET
+.121569 .160784 .215686 rg
+BT 1 0 0 1 105 78 Tm ([) Tj T* ET
+BT /F6 5.6 Tf 6.72 TL ET
+.603922 .631373 .690196 rg
+BT 1 0 0 1 91.28 70 Tm (28) Tj T* ET
+BT /F6 5.9 Tf 7.08 TL ET
+.121569 .160784 .215686 rg
+BT 1 0 0 1 105 70 Tm (    url :"https://calendar.zoho.in/api/v1/calendars/" + calendarUid + "/events") Tj T* ET
+BT /F6 5.6 Tf 6.72 TL ET
+.603922 .631373 .690196 rg
+BT 1 0 0 1 91.28 62 Tm (29) Tj T* ET
+BT /F6 5.9 Tf 7.08 TL ET
+.121569 .160784 .215686 rg
+BT 1 0 0 1 105 62 Tm (    type :POST) Tj T* ET
+BT /F6 5.6 Tf 6.72 TL ET
+.603922 .631373 .690196 rg
+BT 1 0 0 1 91.28 54 Tm (30) Tj T* ET
+BT /F6 5.9 Tf 7.08 TL ET
+.121569 .160784 .215686 rg
+BT 1 0 0 1 105 54 Tm (    parameters:{"eventdata":eventDetails.toString\(\)}) Tj T* ET
+BT /F6 5.6 Tf 6.72 TL ET
+.603922 .631373 .690196 rg
+BT 1 0 0 1 91.28 46 Tm (31) Tj T* ET
+BT /F6 5.9 Tf 7.08 TL ET
+.121569 .160784 .215686 rg
+BT 1 0 0 1 105 46 Tm (    connection:"zoho_calendar_connection") Tj T* ET
+BT /F6 5.6 Tf 6.72 TL ET
+.603922 .631373 .690196 rg
+BT 1 0 0 1 91.28 38 Tm (32) Tj T* ET
+BT /F6 5.9 Tf 7.08 TL ET
+.121569 .160784 .215686 rg
+BT 1 0 0 1 105 38 Tm (];) Tj T* ET
+BT /F6 5.6 Tf 6.72 TL ET
+.603922 .631373 .690196 rg
+BT 1 0 0 1 91.28 30 Tm (33) Tj T* ET
+BT /F6 5.9 Tf 7.08 TL ET
+.121569 .160784 .215686 rg
+BT 1 0 0 1 105 30 Tm (info response;) Tj T* ET
+.6 w
+.768627 .788235 .831373 RG
+1 1 1 rg
+n
+333 8 m
+373 8 l
+374.6584 8 376 9.3416 376 11 c
+376 20 l
+376 21.6584 374.6584 23 373 23 c
+333 23 l
+331.3416 23 330 21.6584 330 20 c
+330 11 l
+330 9.3416 331.3416 8 333 8 c
+h
+B*
+BT /F1 6.5 Tf 7.8 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 342.886 13.2 Tm (Cancel) Tj T* ET
+.6 w
+.184314 .435294 .929412 RG
+.184314 .435294 .929412 rg
+n
+385 8 m
+425 8 l
+426.6584 8 428 9.3416 428 11 c
+428 20 l
+428 21.6584 426.6584 23 425 23 c
+385 23 l
+383.3416 23 382 21.6584 382 20 c
+382 11 l
+382 9.3416 383.3416 8 385 8 c
+h
+B*
+BT /F5 6.5 Tf 7.8 TL ET
+1 1 1 rg
+BT 1 0 0 1 393.9857 13.2 Tm (Update) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 84.60976 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 40 Tm /F3 9.6 Tf 12.4 TL 1.819439 Tw (The Deluge Script editor for Sync_To_Zoho_Calendar. The script fetches the calendar with invokeurl \(GET\), builds the) Tj T* 0 Tw .356924 Tw (callback date-time from the preferred callback slot, initializes an eventDetails map with the title \(policy number\), description) Tj T* 0 Tw 6.693856 Tw (\(claimant, contact and claim type\) and date-time, calls invokeurl with type POST using the connection) Tj T* 0 Tw (zoho_calendar_connection, and traces the response using info.) Tj T* ET
+Q
+Q
+q
+BT /F4 9.5 Tf 11.4 TL ET
+.121569 .164706 .419608 rg
+BT 1 0 0 1 309.0956 805.8898 Tm (Zoho Creator Integration with Zoho Calendar \227 Lab Record) Tj T* ET
+.788235 .803922 .878431 RG
+.6 w
+n 54 799.8898 m 541.2756 799.8898 l S
+n 54 48 m 541.2756 48 l S
+BT 1 0 0 1 54 36 Tm (241401104) Tj T* ET
+BT 1 0 0 1 276.1345 36 Tm (Page 3 of 4) Tj T* ET
+Q
+ 
+
+endstream
+endobj
+25 0 obj
+<<
+/Filter /FlateDecode
+/Length 26 0 R
+>>
+stream
+xú]âM
+¬PÑ˜sä\†iÚ~HÇu]ÃÇÌ˝¡œç|Û1≥‚õò*˝z¯Riú3µqK]ü8:∆Û%Æmá–ó˜Üq—D&‰wh3ÆîLy™‰7D¥F,RzÁÓ•ªÕ‰úk]6¸
+endstream
+endobj
+26 0 obj
+113
+endobj
+23 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 595.2756 841.8898]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.12
+>>
+/GS11 <<
+/ca 0.5
+/CA 1
+/BM /Normal
+/AIS false
+/SMask /None
+>>
+>>
+/Font <<
+/F1 4 0 R
+/F2 5 0 R
+/F3 6 0 R
+/F4 7 0 R
+/F5 8 0 R
+/F6 9 0 R
+/F12 15 0 R
+>>
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+>>
+/Contents [17 0 R 24 0 R 25 0 R]
+/Trans <<
+>>
+/Parent 2 0 R
+>>
+endobj
+28 0 obj
+<<
+/Length 4809
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 54 765.8898 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (3. Output & System Verification) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 732.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 17.9 Tm /F4 10.5 Tf 14.2 TL .380584 Tw (The end-to-end integration architecture was successfully deployed within the application ecosystem. As verified in) Tj T* 0 Tw (the main microservices interface, the Zoho Calendar API pipeline is established and operational.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 715.2898 cm
+q
+BT 1 0 0 1 6 3.7 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+BT 1 0 0 1 18 3.7 Tm 14.2 TL /F2 10.5 Tf 0 0 0 rg (Connection Diagnostic Result:) Tj /F4 10.5 Tf ( Connected \(Green Status Verified\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 684.8898 cm
+q
+BT 1 0 0 1 6 17.9 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+BT 1 0 0 1 18 17.9 Tm .904826 Tw 14.2 TL /F2 10.5 Tf 0 0 0 rg (Operational Availability:) Tj /F4 10.5 Tf ( The connection link name zoho_calendar_connection is fully compiled and active) Tj T* 0 Tw (within the form's logic flow.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 654.4898 cm
+q
+BT 1 0 0 1 6 17.9 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+BT 1 0 0 1 18 17.9 Tm .046776 Tw 14.2 TL /F2 10.5 Tf 0 0 0 rg (Workflow Status:) Tj /F4 10.5 Tf ( Sync_To_Zoho_Calendar was saved without compilation errors and is mapped to the Claim) Tj T* 0 Tw (Request Form \(Created > Successful form submission\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 648.4898 cm
+Q
+q
+1 0 0 1 54 531.4898 cm
+q
+.78 0 0 .78 0 0 cm
+.8 w
+.811765 .831373 .870588 RG
+.984314 .988235 .996078 rg
+n
+5 0 m
+415 0 l
+417.764 0 420 2.236 420 5 c
+420 145 l
+420 147.764 417.764 150 415 150 c
+5 150 l
+2.236 150 0 147.764 0 145 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+B*
+BT /F5 8.6 Tf 10.32 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 14 132 Tm (Microservices) Tj T* ET
+BT /F1 7 Tf 8.4 TL ET
+.294118 .333333 .388235 rg
+BT 1 0 0 1 29.439 110 Tm (AI Models) Tj T* ET
+BT /F5 7 Tf 8.4 TL ET
+.184314 .435294 .929412 rg
+BT 1 0 0 1 93.804 110 Tm (Connections) Tj T* ET
+.184314 .435294 .929412 RG
+1.4 w
+n 84 104 m 146 104 l S
+BT /F1 7 Tf 8.4 TL ET
+.294118 .333333 .388235 rg
+BT 1 0 0 1 165.3545 110 Tm (Datasources) Tj T* ET
+BT /F1 7 Tf 8.4 TL ET
+.294118 .333333 .388235 rg
+BT 1 0 0 1 236.3275 110 Tm (Custom API) Tj T* ET
+.6 w
+.827451 .843137 .878431 RG
+1 1 1 rg
+n
+19 18 m
+199 18 l
+201.764 18 204 20.236 204 23 c
+204 85 l
+204 87.764 201.764 90 199 90 c
+19 90 l
+16.236 90 14 87.764 14 85 c
+14 23 l
+14 20.236 16.236 18 19 18 c
+h
+B*
+.909804 .921569 .952941 rg
+n
+40 68 m
+40 72.41828 36.41828 76 32 76 c
+27.58172 76 24 72.41828 24 68 c
+24 63.58172 27.58172 60 32 60 c
+36.41828 60 40 63.58172 40 68 c
+f*
+BT /F5 7.6 Tf 9.12 TL ET
+.168627 .184314 .227451 rg
+BT 1 0 0 1 46 70 Tm (Zoho Calendar Connection) Tj T* ET
+BT /F1 6.2 Tf 7.44 TL ET
+.419608 .447059 .501961 rg
+BT 1 0 0 1 46 59 Tm (Link name: zoho_calendar_connection) Tj T* ET
+.6 w
+.133333 .643137 .364706 RG
+.901961 .964706 .92549 rg
+n
+31.5 28 m
+80.5 28 l
+84.646 28 88 31.354 88 35.5 c
+88 35.5 l
+88 39.646 84.646 43 80.5 43 c
+31.5 43 l
+27.354 43 24 39.646 24 35.5 c
+24 35.5 l
+24 31.354 27.354 28 31.5 28 c
+h
+B*
+.133333 .643137 .364706 rg
+n
+36 35.5 m
+36 37.15685 34.65685 38.5 33 38.5 c
+31.34315 38.5 30 37.15685 30 35.5 c
+30 33.84315 31.34315 32.5 33 32.5 c
+34.65685 32.5 36 33.84315 36 35.5 c
+f*
+BT /F5 6.8 Tf 8.16 TL ET
+.086275 .501961 .247059 rg
+BT 1 0 0 1 40 33 Tm (Connected) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 501.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.2 Tm /F3 9.6 Tf 12.4 TL 3.720599 Tw (The Microservices dashboard \(Connections tab\) showing the Zoho Calendar Connection card with the link name) Tj T* 0 Tw (zoho_calendar_connection and a green Connected status, confirming the integration bridge is established.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 471.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL (4. Conclusion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 395.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 60.5 Tm /F4 10.5 Tf 14.2 TL .427839 Tw (The lab exercise successfully demonstrates how to connect a low-code application to external cloud services using) Tj T* 0 Tw .162149 Tw (microservices, conditional workflows, and custom Deluge scripting. By binding the Claim Request Form criteria to) Tj T* 0 Tw 1.936008 Tw (the zoho_calendar_connection module, the project establishes a working proof-of-concept for automated claim) Tj T* 0 Tw 1.721439 Tw (verification scheduling, where every declared claim request blocks a callback slot on the claims team's master) Tj T* 0 Tw (calendar at the claimant's preferred time.) Tj T* ET
+Q
+Q
+q
+BT /F4 9.5 Tf 11.4 TL ET
+.121569 .164706 .419608 rg
+BT 1 0 0 1 309.0956 805.8898 Tm (Zoho Creator Integration with Zoho Calendar \227 Lab Record) Tj T* ET
+.788235 .803922 .878431 RG
+.6 w
+n 54 799.8898 m 541.2756 799.8898 l S
+n 54 48 m 541.2756 48 l S
+BT 1 0 0 1 54 36 Tm (241401104) Tj T* ET
+BT 1 0 0 1 276.1345 36 Tm (Page 4 of 4) Tj T* ET
+Q
+ 
+
+endstream
+endobj
+29 0 obj
+<<
+/Filter /FlateDecode
+/Length 30 0 R
+>>
+stream
+xú]àK
+É@˜}äw€Ó˘ÿBt-È$DdëxpÑ…&≈+ﬁJüä∞â©‚∑›ˇR·—Â¬%∏øirÍóõFl;	Næı≥&ò¿ü§≈8#òÚê·∫àhÆZ5µç≠Sk·/∫:≠ï^| 
+endstream
+endobj
+30 0 obj
+113
+endobj
+27 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 595.2756 841.8898]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.12
+>>
+/GS13 <<
+/ca 0.5
+/CA 1
+/BM /Normal
+/AIS false
+/SMask /None
+>>
+>>
+/Font <<
+/F1 4 0 R
+/F2 5 0 R
+/F3 6 0 R
+/F4 7 0 R
+/F5 8 0 R
+/F6 9 0 R
+/F14 15 0 R
+>>
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+>>
+/Contents [17 0 R 28 0 R 29 0 R]
+/Trans <<
+>>
+/Parent 2 0 R
+>>
+endobj
+13 0 obj
+<<
+/Registry (Adobe)
+/Ordering (Identity)
+/Supplement 0
+>>
+endobj
+12 0 obj
+<<
+/Filter /FlateDecode
+/Length1 8340
+/Length 5641
+>>
+stream
+xú≠8ixU∂Áﬁ[U›È%]›ŸìNwuö¥c:1ò I ìTV–Äl	v3AB$Ä
+QÑfF„£
+£‚:‚ÇV:;¡PQƒü:#∏/üŒÁ2.§ﬁπ’ù(o|ÔõØnü˝‹Ì‹so’m  `Ö0=ufq…;èT¨CÕ3≥:V,S∂º∂Ä§H£/]∫‡ÚóWÖ∑òÍQæb¡e´.=ÿ{—≠ ˆ~î'wu∂œ?VööÄÓ „∫P·*µ›Çr9 £∫._vıÃÛî[QnªlIG;@∆ß(Û˛Ê_ﬁ~ıR·o‚Û i
+  “%›ÀÙ<Ü≤äÚå•Wu.ù1t‡îÔ ∞Ë@ÿF≤D0ã€ƒReNú≤ø¬•‘e©U(Äk6D¿xÃ5O©S@Ö—0F<24ùîö™HT¢Î:∑äÉêÖê->YB 2Ùè>Êth°˛1∑sJq‰K ¿ÿI¬Nÿœë”XÎ)Ä~¯d@=‹´·ÿ ÃFÕç0ãà˙;Hñﬁ≈p?∆ˇ~8Ñæ√Ñtí©ka=;Çµ÷ÉÚ†¶¡∏ÖL÷óC+~e0ÆÄ•$¢áÙ[ı€Ùá‡a`—œ‡äfCñC˙Á‚Èá"¨Ò;ÿ
+«…mIªpÊ„ä∞{‡*ÿ∆ÊD_†á#¡JÉ S‡ŸGÉÿz'|D2…jVá≠<®k˙Ùr√ËÇm0H∆íâ‘'∂ÍSÙCêé}\ç≠nÖ(Ï∆É?¬õƒ&û÷“OC¬8ü~xÖÏcCg÷UÛ@cîŒÖ
+¥,Å?¡*ÒìgÈ—&ñà™xç~È|h¡—>Ç5?$ﬂ–5X÷≤ÁÖFΩí1.øÂ—Ü?√;$õì©d=ó.°˜≤´pù±Ó˘0bºÔ¬÷ﬂ&A≤õ⁄Ëaˆ†∏Ωî;tBO∆	¿Ô·xñÿq¶
+È&ø&«»{¥éŒ•øßÔ≤;ÑGÖ◊LÌ8ÎK‡r∏áoàãîìÈ‰W§ã¨&»o…VràºJ>¶5¥ô.¶ßXªí˝Q®≈2SË~#ﬁ ﬁ$}<:0Ù◊°oÙ˝òé˘∞Gˇ;∏g6 á·,«·]"+I∆¢i!◊bYCn!ê‰Q“èΩºJﬁ%üêíØ»˜∞H4á˙h?ΩäÆ§w–ªÈa,Ø“œË∑,ÉÂ± À*Yò-¡Qm`õ±ÏbÔŸ¬aA«8óà[ƒÌ‚ÒqÒ9Ò¥d3˝⁄ÊóxL¡ô∑á`h„–ñ°ËPø˛§·fcºPâ£o«≤◊{f‹SpÑÿ0vŸ§ÄTë…ôπdπí\çëºûl#cí<ÉQzùú¬1€©€Ûyt,≠•S±\B;Èït3Ωçˆ”cÙ;fbVÊ`i¨ÄMdsX'[∆V±-Lc/≥∞wŸ◊Ï,∫`ºBûÇ¬DaÆ∞\∏W¯H¯Hl_?ê,“Â“RL˙¬4ŒTeöfönöc⁄d⁄m:jn√Ï‹ª‡i¯…CN∞u¨ÅÌÇ[i©êE_°Ø`>œÖ˘l
+≈L•;»FzÈß£ƒ´•	tπNåıÛt;˝öN`SHô	ãË˘Ò÷§TO-®ˆ√I·ú€+ÿÚ’íç¨°ß$D	–
+ÏÛœl¥d/¡õÏ81	˜√[ÇÖdêìÙ6≥‡èBïªûdWíÎ`m¿SÔ{ÛÕò«ë«\h&%‰_LF/¬,*cÔ¡o`1˝/8â˚x#‹IÊ‡V(%´·#¯Óäs≈+§)çºH
+=4ÖÙ≈ŸUêQÑâ©p=ô√∂IßË∞xõ=Å£?LüdSÑ”‚“Ö;‡:∏Æ‘◊¡*1$ºF #≥ _8Åß€jV"¯êÆ≈S•œ¥›∏ªÒ®aSPìâô3Û¢OàmXÓ¬sB¿Zà{¸b<≈^Å~©ô∆`ÅòL‘^ö≥ı?¿V}\°ﬂExl–Wcã;‡ÿ;»˙°ka)xpÁºM&ãçÙ∞ÿ®—˙ùI∑úΩæÌ|í	übyÖ*qÙØ√L®÷o÷ˇÜŸ˝<a∑¬<∏ﬁ«Y~é=Lb˚†tË"⁄´7≤•8ﬂ„0]D˜tÈó¡T|G>l°›TÎZök‘Í™_VN_Q^6vLi…˘£ãœ+*ú˚ãs˘£¸y>≈Î…uÁdgef§ß•¶∏ú≤#Ÿn≥ZíÃ&I%Pÿ‡olS¥@õ&¸ì&qŸﬂéäˆü(⁄4Uçg˚hJõ·¶úÌ©¢Á•ˇ√Sç{™#ûDV*°≤®Pi+⁄°zø#≥ßáêø•ﬁV¥ì?≈‡7ºyü+(ô]ıäF⁄î≠qEWOC[=6◊kµ‘˘Î:-EÖ–k±"kENÀ/Ì%Uƒ`hF√¯^
+f;JÀˆ◊7hY˛z>çÂ7¥œ◊¶M5‘Á¯|·¢Bç‘u¯Ái‡Ø’A√Íån4©N3›(˘l‡&•∑p_œÕ1ÊµmÛ˝Û€[CkÛ>úAÏ∑^À∏Ê˝ÃEl‹U⁄SkÎi»\®p±ßgÉ¢›7=ÙS´è„p€¿∫4ø±≠ßªæÉÿ4S¡ﬁË˙pH#Î±KÖœÑœ*>øN◊¥-R¥$≠ø´gQ.Mvè3V˘¢ŸŸÍÄ~≤îûÊêﬂßUÁ¯√ÌıÓﬁTËô±™/KU≤Œ∂ˆ Œx`{ì	∆fˇ)”9b38√ùsM3F"K¯à¸`BhJáÇ#	˘qNÂuñCOG9∫·&XKõè+≤PK™kÎë«s=ØØâ˘≤_È˘
+0¸'?;[”û–H˘ÚW¿Yû'#©Üˆa^µÇû"¶:\Scï!è-*\£~ˇRYAÇ·Éi€ˆ¯bøœ«¯¶ò
+ÛP–"”CqYÅy9QPãÉaç∂qÀæaKZ∑DÜ-#’€¸ò…˝¿?Å”4s`‰Áê”S∫∆k$˝ˇ0w∆ÌM3˝M”gáîÜû∂Dlõöœí‚ˆÚ[Ç”RÍB,á&8ö√+&eÎà3B6M»«üd$ı¸ò…åYihà“®…mì‚8lÒ˘˛√J1˝4Øeê´%Ü©çû-O8K>kx∂Ü∆◊`SÛÏûÀY6Lµxá$f<4á|Jù-∏3ÛÒ”˜ïsÁh*Ü¨é;`˛≈U	Ò,«ú∆ággQa#t==ç~•±ß≠ß=¶GÊ˘Ÿﬂ3@ü£œı,mhNúò>xSé÷xsc’E∆„¶†P€Î'ß˜™d„ÃŸ°ÔõCQJh][m∏w⁄BxQ-ÂZÆ‰Ç¬h"8…(5˛9xCâV¡PrGåÄ°3Îtƒh\'Î(ÍÑ∏N5t¸·gL]sËßŸcl…pf#%∆«≥àW0¯ú>g>"Ç/‘∂ÔUÑÔAˆ°'¥Ë	Nq»êKZz)oTµd{1’c∑g$≈Ùè˚⁄¬5ÀnGŒ	6ÆÅtõ±çÎ†8Bt™OVü<tNØÙÔ-}â-Iº•˚ÌvÉ˘\Õ≤Z%ﬁ§Ã5 €ls›Hì?∂Ÿ/)Y≤Cl˝äÈ.á~Bù'HËFÎF«ã…bí…öIR&ß]òUó”ú“ö÷ö5#g±i±µ#Â≤¥≈Ym9´ËJiÖı«È.”˘≈Ã7È1Èòı-Gˆ»pªìTüÃË$IrM⁄ÏuvÊñöåZ~5§∞ŸÛ¬MôA˘Î9¡ìàÆûLìÃπ/@Â¸!·päÏWZíûÓJì©‰œ;'ê"ßóñås ûIjY|‰æ—eµãé‹t’o]Ω˙—G◊¨æp=BÚÀ'ÊˆÈoÌﬂy◊”‰û°;Où∆[≈¢œﬁÄ,x ˙=ÆùûR¶⁄ùckÈ&∫’,<!ê$êD íDb£‰†≈ΩÖœ	àÇuc˙â~Y∆•ãÈü™NcA›∆Ç&äQV≥¯rØâ±>Ÿ6Qµ;∆à√ë-obTÃ≤íJ≤2É…Ôc00.¡¯ÉBÂî3ïP]ùQAú<>0'ËÛ;%…4v‹∏≤R˙}ÕëÊ;ﬂ-^&\[µ⁄˚‰ƒÉs˘‹*ÒœÑsÛêπî‰îÌô))Rãùßí”i0ü´I≤åú'UÙÕ‡∑z‹…hÒÿ¯»=1∫GµQKFÜ‚ïùî*^ß´¢¯Ë!éAÒI>“jéî‰•#⁄\.jt®&9út∏ü™’ïB[<©\«€éb”|´X≠¥ôœT#ä?◊œgﬁÔÕËL7Aú Ì˜J{L/ò_tõ.∞ÖmÕ…ãmÛìØq]ìr£Î◊Ÿ‰úŒ∂Ìµ>ùBsd∑ú+{dÈOxm6aÚõë&·je{,≤Yí∫≥S›Ól≥;õjŒv3ªGé—á˙¶:â3F2wÒÄ°6Kw∆å6œu≤áÆdRÆ⁄úª™ÒzªÑÆ≈”jêé/Ÿ‘Oˆ/1ŸÉïÚóòÌïg*´OûôÛæ”≈W—Ü‰ÛÇ…◊…P¿uÜ·Ps»ú´¬·¸4_†W|‹∏±c0ı%”9„¯æHK≈L¿ü`˙°åf‰?∏Ì‘é≠◊˛˙n2êÚØø˘z“#œ=–ÍŸπ≥¶≤cﬂö\∫¯ˆª{RøÒÈŒ–cœ<¥±˝|‹àŸò)≤8àª¿NÍ8W»÷e€f{‘ˆ¢MúÃ&€Ôò#6âôDãïô¿Ü)qê	©å	Ã‘fLl›f<8ÔS- Ë-Bå^˙¥(Z‘\ÔÀ~±ƒè/É˘‹8«,1R¶⁄Mjûå)‚k⁄Ï†|XÌ©c OqÖ2 +Û:»ºøõ◊°ªíc‰f#¶ü·1∂Àó<	+Âec∑»_V~]È¨‡ë≠®ÿp^P¿¿:‹?¯˛ ª˛v‘UÅâyTµñV∞º¢
+&‰ÊVÚ&¬∏¡–GMµ©÷
+[dZÖMTÿÚ‹Hã*å=∆ó¡XRÍ,MÛ;ôì–-gÆß˜‹˛¸Û˝Cc…‹áŸÓ.|xË~\˙ﬂùYl|›0GÎ∑Wq˝\GÂWf´Ò<ﬁ9ú>π›˚›Sg»`∂°òÑ˛$~ù0U]u2|˜‘P@ÜÑ˛«'SJ®¯]7}.∫!·S.¨gAàlÄŸÙ1XÕÅÂÇ*<W°Ôc(◊ ‰u—ø·8B%¬,ÑÏD?ˇ@>ƒQ>áΩ}i≤1ÖLD’∞ﬂµﬂ£≈0≠v!ﬂæ¸/„—œÅ-sOÊœjˇ˝I¡{p“ÄﬁfGMÀÄS:/‚bÑ©s6!lGê¿ë–,AXã∞·¥aQYFÙ∂R5Ü‰&ÉÙ-∫¨ƒ€„bÎCÏª8ßS¶«i˝q∑Òq∑Û«ƒ’Á’∆È9ÖqÍ /âpj±óÏ´IgÈ*Ö•à	= B∆KÅ2)°Qô´oT†d˚^& aîò^}#Qª≥§∆Buz
+\‡•ü”ìq=ŸóÏ,Ÿ^s!}ûBÿã¿ËªXﬁ°Ô¿ZzóHF\ç∞a/¬aÑS=ÅÂ8ñ∑È€‡†ˇÄbÑjÑπ€ˆ"úB0— ñÈﬂ˘ÇòÛ’î˛±Lﬂ¬iΩÖÿAﬂDÓM˙&ÌH¥¨¢d¿`Ç≈	∆õü`2rå+Ω$F_ã~{Æ7FﬂÎSÇﬁ˚jF”£∏éÚÏA,#(”⁄ñ"H»CÓD6#‹á†!HXÁ÷9Üu"ºåpF#®”ÃÙ’(v£á£ÅZoM:}ÖæÄâÂ•áË_˙2}ﬁ†/—?ÙE§§ÈÛQèj¨h¨##ïë£]§œˆçryı'›ã·Ò".F®Fòä0aÇD˜“ºË|ØŸÒ4Ò“(|b–?¿fPy’@Êò¬Q`¸/ëC¥]Ÿ†j`ÀV9
+‹zrÆø9é◊¨Cé£¿e+ê„(0rfœEé£¿‘f‰≈ËΩOè:«[6u1Qjt%Fi%Fi%Fi%t%/≠¿«ˆ˚hAFlõ<∑¿$ëgHdâ<@"ù$≤ÜD÷ëH%â\B"AqìàáDTŸC 1¢ˆü%V®ô$rêDvíH7âH$üDFëàÇÔëıE/(5HÉA˙j¯æB˙À™é—áıaZ˚p€ÔE|A7$ùîº∏sñá”ºæÇÍ∏|ﬁ¯í%5ìË~¨∏óa?GpÅˆcÌ«Fˆcƒ’sˆ!úB–$ÙŒ√Åo2∞q1B5¬\Ñµß$c8ß(,IÒ)c`≈âAOÂ›èÖˇÌ£>5?fÇÚ$∂…M2’£{h§ß„1ÁröÒs≈æ˚˚øæ±CRMΩïnÇ\\àÕ	∫)˙mÆ7FÓäˆxk“»ù‡0ÎHH>“rË6‰±‡6s:‹Ùq§%Q˜,¨Êà
+ΩÉ$ô◊⁄Ì˝÷˝æ˜wå"˚±{è˜u%&ê®˜o®y|∑˜®˚FÔã≈13jû	ƒíA≈ppó{w4\◊°a[‘ªÜì›ﬁÎ‹Ωã›Ü°3n∏§%’·ùòÌùÑÌ’ªÁy’nls∑∑⁄}â∑2Ó5ñ◊ŸÌçC∆ŸÏπn£Sø«h∞•,F∫‘B”S»4’4ŒTb*4˘L^SÆ)«îjvôes≤Ÿf∂òÕf…,òÒª«ú øWÉ¸˝õ*ØaI‡X0xôrL„/lJÃ.-Ö5—¶ôµ§I€◊MÛÌÎô˛±‡˝^Ù◊Õ’MÕµZy∞)f“ghe¡&Õ4ÌW°^Bn£V£Ò^€äù´÷Á“ÄÁ˙[r8˝≈˙[¬a»L_QùYÌ™rV4÷ˇjK‡‡èOÊY|Æ∂•ifH{,7¨ïpFœ7i∑Ûø⁄»?…ÈÜ˙Ú'·– ´"ˇlò¡ı¨™>näëYÜ(‰Ù√å˘¬3{@·~†ò=qømqø|¨è~£8Aø§$»7¸Úìí?ÅpøﬁÓQıΩ£F>
+t>› O}Ê£O~æ·ìÅÉÜœ¡Ù˜—™∑]<n√ÖdÉ€pqìl√e÷è.≈	óG\n4zb‰Gw‹«~bÿ«~}ÇˇÈ”Yíæ	·éV˛7eõø°°MªiEW¶ôß(Ω·ƒˇóÅ∂y]ú∂wjagΩ÷·ØWz'¥˛åπïõ'¯Î{°µ°9‘€™v÷G'®¸Ìı·æâ”∆îù’◊ç#}çôˆ3çM„çç·}M,˚s7O‰}ïÒæ x_’âF_`‰¯¥PØj√¯≈l–>jµ`æ∂Â¯¬µÈÚ“*#y'¯2◊‰‚…∞√öÕ_´Ÿ∏©®¶®ÜõpOqS2ˇ/:a \3¡ó3Hv$L2™ù˛Z.[ﬁΩ2÷«›¯†jŸr8vˇo⁄4µΩæ{@ìV0≥I´û>;‘k2°∂çOI?¨≥ZWûá Ò\…ÿà#◊Ur]RR¬Òﬂ◊yÇwé›”GTY›a¶yöö)Õâ?˝Òsâø∫√8¡n$›√m√Ü8|æ√∞lyÇKƒaYÇ∆kaïÓ·på<<Jﬂe;óã
+endstream
+endobj
+11 0 obj
+<<
+/Type /FontDescriptor
+/FontName /ASJHFX+ArialMT
+/FontWeight 400
+/Flags 32
+/FontBBox [-665 -325 2000 1006]
+/ItalicAngle 0
+/Ascent 905
+/Descent -211
+/Leading 32
+/CapHeight 0
+/StemV 0
+/FontFile2 12 0 R
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/Subtype /CIDFontType2
+/BaseFont /ASJHFX+ArialMT
+/CIDSystemInfo 13 0 R
+/FontDescriptor 11 0 R
+/DW 750
+/W [19 [556 556 556] 23 [556]]
+/CIDToGIDMap /Identity
+>>
+endobj
+32 0 obj
+<<
+/Filter /FlateDecode
+/Length 239
+>>
+stream
+xú]PÀj√0ºÎ+ˆò“ÉdªØÉÑÑ“ñ*Å^im±$d˘‡øØ,7)≠@Zfwg›4€∆öÙ#8%0Bk¨8∏1(Ñ3v∆í¢mT¸A˘UΩÙÑ&≤òÜà}c[uÙ3á&X≠≈Î~˜uøF^«;†ÔAc0∂É’i#£˜Ï—F`¿9hlì‚A˙7Ÿ#–ø¸ﬂÈqÚe∆≈‚H9çÉó
+É¥íö•√°fO/;N–ÍÛraù€€zQÕÎ¨xÃ•b<7üóÊR™á,u%Õ™)∏⁄%j!˝$«îmŒç≈[íﬁ˘ôïÔ7d‚vD
+endstream
+endobj
+15 0 obj
+<<
+/Type /Font
+/Subtype /Type0
+/BaseFont /ASJHFX+ArialMT-Identity-H
+/Encoding /Identity-H
+/DescendantFonts [14 0 R]
+/ToUnicode 32 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R 19 0 R 23 0 R 27 0 R]
+/Count 4
+>>
+endobj
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+31 0 obj
+<<
+/ModDate (D:20261012191221Z)
+/Producer (4-Heights\222 PDF Library 3.4.0.6904 \(http://www.pdf-tools.com\))
+>>
+endobj
+xref
+0 33
+0000000000 65535 f
+0000051972 00000 n
+0000051894 00000 n
+0000008294 00000 n
+0000000015 00000 n
+0000000122 00000 n
+0000000230 00000 n
+0000000340 00000 n
+0000000449 00000 n
+0000000561 00000 n
+0000000666 00000 n
+0000051018 00000 n
+0000045289 00000 n
+0000045214 00000 n
+0000051239 00000 n
+0000051741 00000 n
+0000008086 00000 n
+0000008034 00000 n
+0000008274 00000 n
+0000020730 00000 n
+0000008667 00000 n
+0000020522 00000 n
+0000020710 00000 n
+0000039391 00000 n
+0000021105 00000 n
+0000039182 00000 n
+0000039371 00000 n
+0000044838 00000 n
+0000039767 00000 n
+0000044629 00000 n
+0000044818 00000 n
+0000052021 00000 n
+0000051429 00000 n
+trailer
+<<
+/Size 33
+/Root 1 0 R
+/Info 31 0 R
+/ID [<B7E87910228F37A816B97D72C423D45D> <1ED738666DE99FEB47B1500BBB367619>]
+>>
+startxref
+52150
+%%EOF
